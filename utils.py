@@ -4,8 +4,8 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
-OWNER = "[Your Name]"                                   # TODO: replace
-CONTACT = "[your-email@example.com] | [LinkedIn URL]"   # TODO: replace
+OWNER = "Abas Aziz"                           
+CONTACT = "abas.colle@gmail.com"
 SOURCE_NAME = "Seattle Weather (vega-datasets)"
 SOURCE = "https://github.com/vega/vega-datasets/blob/main/data/seattle-weather.csv"
 ORDER = ["sun", "rain", "drizzle", "fog", "snow"]
