@@ -3,7 +3,7 @@
 A multipage Streamlit portfolio app that explores four years of daily Seattle weather through an annotated EDA gallery and an interactive dashboard. It exists to practice clear, accessible, honest data visualization.
 
 ## Author
-[Your Name] | [your-email@example.com] | [LinkedIn URL]
+Abas Aziz |abas.colle@gmail.com|
 
 ## App Navigation
 - **Home (app.py):** overview and dataset snapshot
