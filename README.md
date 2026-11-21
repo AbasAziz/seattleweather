@@ -21,8 +21,8 @@ Abas Aziz |abas.colle@gmail.com|
 ## Requirements
 See `requirements.txt`. Run locally: `pip install -r requirements.txt && streamlit run app.py`
 
-## Screenshots
-Add 1-3 screenshots (for example `sample.png`) here.
+## Screenshot
+![Dashboard page of the Seattle Weather Explorer](image.png)
 
 ## AI Assistance Acknowledgment
 I used Claude (Anthropic) to help generate questions and draft code, which I reviewed and edited.
