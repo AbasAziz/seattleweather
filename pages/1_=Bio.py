@@ -15,7 +15,6 @@ with left:
         st.markdown(f'<img src="data:image/png;base64,{b64}" width="100%" '
                     'alt="Profile photo placeholder showing the owner\'s initials on a blue background">',
                     unsafe_allow_html=True)
-        st.caption("Profile image (replace assets/profile.png with your photo).")
 with right:
     st.markdown(
         "I am a computer science student at MSU Denver and a remote contractor with DataAnnotation, "
